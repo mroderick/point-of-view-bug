@@ -1,0 +1,17 @@
+{
+  "name": "point-of-view-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node lib/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.27.4",
+    "mustache": "^4.2.0",
+    "point-of-view": "^5.1.0"
+  }
+}
